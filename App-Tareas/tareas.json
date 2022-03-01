@@ -1,0 +1,14 @@
+[
+  {
+    "tarea": "lectura",
+    "estado": "pendiente"
+  },
+  {
+    "tarea": "ejercicios js",
+    "estado": "terminado"
+  },
+  {
+    "tarea": "Curso Digital House",
+    "estado": "En progreso"
+  }
+]
